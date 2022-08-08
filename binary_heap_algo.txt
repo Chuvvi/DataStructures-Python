@@ -1,0 +1,5 @@
+array to binary heap:
+let i be the parent node index
+left child index : 2i + 1
+right child index : 2i + 2
+(Zero based)
